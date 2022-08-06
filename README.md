@@ -3,7 +3,7 @@
 I've been teaching myself how to code and I like to make things with what I learn!🌱 I love JavaScript and hope to continue to become the best programmer I can be 🙂 I want to contribute to more open source projects!👩🏿‍💻 You can reach me at mimichanakira@gmail.com 📫 
 <br />
 
-<img align="right" src="https://user-images.githubusercontent.com/96605342/183249296-289ad163-38a2-434c-bfd8-e119f0fe90e5.gif" width="400" height="300" />
+<img align="right" src="https://user-images.githubusercontent.com/96605342/183249296-289ad163-38a2-434c-bfd8-e119f0fe90e5.gif" width="370" height="300" />
 
 Follow my <a href="https://www.notion.so/What-I-ve-Been-Learning-4ac23028adb04e0683b6919ae9b2b9bd" target="_blank">learning journey</a> over on my blog!
 

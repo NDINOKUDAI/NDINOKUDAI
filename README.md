@@ -40,7 +40,4 @@ If you like what I do, consider buying me a latte/coffee 🍵
 <img height="20" width="40" src="https://user-images.githubusercontent.com/96605342/183250716-8d259046-3464-46d3-9c73-1a403e142440.png">
 
 
-<video width="40px" loop="true" autoplay="autoplay" controls>
-<source src="https://user-images.githubusercontent.com/96605342/183259164-756fb6c5-5658-426d-a4c8-dfdea6fc8836.mp4"/>
-  </video>
-
+https://user-images.githubusercontent.com/96605342/183259542-faa932ff-a030-4b2c-afaf-7db1864ece5b.mp4

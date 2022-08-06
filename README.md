@@ -19,14 +19,14 @@ If you like what I do, consider buying me a latte/coffee 🍵
 
 ### Let's Connect
 <a href="https://discord.gg/Bfzhh3mf">
-  <img align="left" alt="Mina Chanakira's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" target="_blank" alt="Mina Chanakira's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/mina-chanakira-703428124/">
-  <img align="left" alt="Mina Chanakira's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" target="_blank" alt="Mina Chanakira's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://mire-valley-ae6.notion.site/What-I-ve-Been-Learning-4ac23028adb04e0683b6919ae9b2b9bd">
-<img align="left" alt="Mina Chanakira's Notion Blog" width="22px" src="https://user-images.githubusercontent.com/96605342/183250629-bdbfd7c8-ba07-43bd-9894-1658b3de12da.png"/>
+<img align="left" target="_blank" alt="Mina Chanakira's Notion Blog" width="22px" src="https://user-images.githubusercontent.com/96605342/183250629-bdbfd7c8-ba07-43bd-9894-1658b3de12da.png"/>
 </a>
 
 <br>

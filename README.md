@@ -1,4 +1,4 @@
-### 👋 Hi, i'm Mina Chanakira! 
+### 👋 Hi, i'm Mina! 
 
 I've been teaching myself how to code and I like to make things with what I learn!🌱 I love JavaScript and hope to continue to become the best programmer I can be 🙂 I want to contribute to more open source projects!👩🏿‍💻 You can reach me at mimichanakira@gmail.com 📫 
 <br />
